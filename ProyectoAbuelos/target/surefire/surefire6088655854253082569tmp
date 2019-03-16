@@ -1,0 +1,23 @@
+#surefire
+#Fri Mar 15 11:54:21 COT 2019
+testClassesDirectory=C\:\\Users\\gtior\\Documents\\NetBeansProjects\\ProyectoAbuelos\\target\\test-classes
+forkMode=once
+classPathUrl.2=C\:\\Users\\gtior\\.m2\\repository\\junit\\junit\\4.8.1\\junit-4.8.1.jar
+useManifestOnlyJar=true
+classPathUrl.1=C\:\\Users\\gtior\\Documents\\NetBeansProjects\\ProyectoAbuelos\\target\\classes
+classPathUrl.0=C\:\\Users\\gtior\\Documents\\NetBeansProjects\\ProyectoAbuelos\\target\\test-classes
+reportsDirectory=C\:\\Users\\gtior\\Documents\\NetBeansProjects\\ProyectoAbuelos\\target\\surefire-reports
+providerConfiguration=org.apache.maven.surefire.junit4.JUnit4Provider
+testSuiteDefinitionTestSourceDirectory=C\:\\Users\\gtior\\Documents\\NetBeansProjects\\ProyectoAbuelos\\src\\test\\java
+surefireClassPathUrl.1=C\:\\Users\\gtior\\.m2\\repository\\org\\apache\\maven\\surefire\\surefire-api\\2.10\\surefire-api-2.10.jar
+surefireClassPathUrl.0=C\:\\Users\\gtior\\.m2\\repository\\org\\apache\\maven\\surefire\\surefire-junit4\\2.10\\surefire-junit4-2.10.jar
+runOrder=filesystem
+useSystemClassLoader=true
+excludes0=**/*$*
+isTrimStackTrace=true
+enableAssertions=true
+includes2=**/*TestCase.java
+failIfNoTests=false
+includes1=**/*Test.java
+includes0=**/Test*.java
+childDelegation=false
